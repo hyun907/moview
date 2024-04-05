@@ -1,0 +1,29 @@
+@charset "UTF-8";
+*{  font-family: "Noto Sans KR", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal;
+}
+
+body{
+    background-color: #333;
+}
+
+#jumbotron{
+    margin-top: 30px;
+    text-align: center;
+    background: rgb(239, 239, 239);
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#jumboTitle{
+    font-family: "Jua", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#review-btn{
+    width: 100%;
+    
+}
