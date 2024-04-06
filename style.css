@@ -1,5 +1,5 @@
 @charset "UTF-8";
-*{  font-family: "Noto Sans KR", sans-serif;
+*{  font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard Variable", Pretendard, Roboto, "Noto Sans KR", "Segoe UI", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
     font-optical-sizing: auto;
     font-weight: auto;
     font-style: normal;
@@ -12,7 +12,7 @@ body{
 #jumbotron{
     margin-top: 30px;
     text-align: center;
-    background: rgb(239, 239, 239);
+    background: rgb(243, 243, 243);
     border-radius: 20px;
     padding: 10px;
 }
@@ -26,4 +26,8 @@ body{
 #review-btn{
     width: 100%;
     
+}
+
+.btn-font{
+    font-weight: 600;
 }
